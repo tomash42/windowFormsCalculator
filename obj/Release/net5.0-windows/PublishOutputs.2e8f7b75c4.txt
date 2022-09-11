@@ -1,0 +1,5 @@
+C:\Users\NT\Desktop\kalkulator\typing.exe
+C:\Users\NT\Desktop\kalkulator\typing.dll
+C:\Users\NT\Desktop\kalkulator\typing.deps.json
+C:\Users\NT\Desktop\kalkulator\typing.runtimeconfig.json
+C:\Users\NT\Desktop\kalkulator\typing.pdb
